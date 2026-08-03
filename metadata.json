@@ -1,0 +1,6 @@
+{
+  "name": "Mutaba'ah Tahfidz",
+  "description": "Aplikasi Pemantauan Hafalan dan Muraja'ah Al-Qur'an (Mutaba'ah Tahfidz) Dilengkapi Target, Ujian Mutqin, Statistik & Pendamping AI",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
